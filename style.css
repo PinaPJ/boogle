@@ -1,0 +1,46 @@
+
+.button {
+height: 36px;
+line-height: 27px;
+background-color: #f2f2f2;
+border: 1px solid #f2f2f2;
+border-radius: 2px;
+color: #757575;
+cursor: default;
+font-family: arial,sans-serif;
+font-size: 13px;
+font-weight: bold;
+margin: 11px 4px;
+min-width: 54px;
+padding: 0 16px;
+text-align: center;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 75vh;
+}
+
+.square {
+  width:480px;
+  height:35px;
+  border:1px solid #000;
+  }
+
+.zgoraj{
+  display: flex;
+  flex-direction: column;
+  justify-content: right;
+  align-items: right;
+  text-align: right;
+}
+
+.square2 {
+  height: 100px;
+  width: 1600px;
+  background-color: rgba(244,244,244);
+  }
